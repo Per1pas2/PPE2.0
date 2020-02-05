@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Théo Perrin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Théo Perrin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_PPE 2.-868890403.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Théo Perrin\Documents\Cours SIO\PPE 2\PPE_2-master" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PPE 2" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FRM_ADMIN.cs" t="Include" />
+        <e p="FRM_ADMIN.Designer.cs" t="Include" />
+        <e p="FRM_ADMIN.resx" t="Include" />
+        <e p="FRM_ANNIMATEUR.cs" t="Include" />
+        <e p="FRM_ANNIMATEUR.Designer.cs" t="Include" />
+        <e p="FRM_ANNIMATEUR.resx" t="Include" />
+        <e p="FRM_LOGIN.cs" t="Include" />
+        <e p="FRM_LOGIN.Designer.cs" t="Include" />
+        <e p="FRM_LOGIN.resx" t="Include" />
+        <e p="FRM_SECRETAIRE.cs" t="Include" />
+        <e p="FRM_SECRETAIRE.Designer.cs" t="Include" />
+        <e p="FRM_SECRETAIRE.resx" t="Include" />
+        <e p="FRM_STARTED.cs" t="Include" />
+        <e p="FRM_STARTED.Designer.cs" t="Include" />
+        <e p="FRM_STARTED.resx" t="Include" />
+        <e p="FRM_TECHNICIEN.cs" t="Include" />
+        <e p="FRM_TECHNICIEN.Designer.cs" t="Include" />
+        <e p="FRM_TECHNICIEN.resx" t="Include" />
+        <e p="LoginDataBases.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="PPE 2.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+      </e>
+      <e p="PPE 2.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
